@@ -31,6 +31,7 @@ SD:/wiiu/sdcafiine/[Title ID]/splatoon_korean_patch
 지역별 Title ID 안내:
 
 일본판 (JPN): 0005000010162B00
+
 북미판 (USA): 0005000010176900
 
 3. 게임 실행 및 적용
