@@ -56,7 +56,7 @@ SDCafiine: Wii U 게임의 실시간 파일 교체를 가능하게 해주는 필
 
 기술 가이드: '파도타기' 님의 블로그 가이드를 참고하여 한글화를 진행하였습니다.
 
-[파도타기 님 블로그 방문하기(Tiramisu 용 튜토리얼)] (https://blog.naver.com/padotagi_blog/221008140671)
+[파도타기 님 블로그 방문하기(Tiramisu 용 튜토리얼)](https://blog.naver.com/padotagi_blog/221008140671)
 
 ⚠️ 주의 사항
 ---
