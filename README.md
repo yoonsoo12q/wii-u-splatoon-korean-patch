@@ -21,13 +21,13 @@ SDCafiine 플러그인 (Aroma 전용)
 
 SD 카드를 컴퓨터에 연결하고, 아래 경로에 맞춰 패치 파일들을 복사해 주세요.
 
-'''
+```
 SD Card
 └── wiiu
     └── sdcafiine(없으면 폴더 생성)
         └── [Title ID]
             └── splatoon_korean_patch(여기에 넣으세요)
-'''
+```
 
 
 지역별 Title ID 안내:
