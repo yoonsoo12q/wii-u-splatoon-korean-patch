@@ -24,7 +24,7 @@ SDCafiine 플러그인 (Aroma 전용)
 
 SD 카드를 컴퓨터에 연결하고, 아래 경로에 맞춰 패치 파일들을 복사해 주세요.
 
-```path
+``` path
 SD:/wiiu/sdcafiine/[Title ID]/splatoon_korean_patch
 ```
 (sdcafiine 폴더가 없으면 생성)
@@ -62,4 +62,6 @@ SDCafiine: Wii U 게임의 실시간 파일 교체를 가능하게 해주는 필
 본 패치는 개인적인 학습 및 취미 목적으로 제작되었습니다.
 
 Pretendo 환경에서 정상 작동을 확인했습니다. 다만, 커스텀 서버 이용 시에도 항상 주의를 기울여 사용하시기 바랍니다.
+
+SDCafiine은 Aroma 전용입니다. Tiramisu 환경에서는 별도의 설정이 필요합니다.
 
