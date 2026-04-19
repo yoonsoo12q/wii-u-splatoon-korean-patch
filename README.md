@@ -1,4 +1,4 @@
-# Wii U Splatoon 1 Korean Patch (Aroma/SDCafiine)
+# Wii U 스플래툰 한글 패치 (Aroma/SDCafiine)
 
 소개
 ---
