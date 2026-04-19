@@ -1,0 +1,1 @@
+# wii-u-splatoon-1-korean-patch-for-aroma-with-sdcafiine-
