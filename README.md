@@ -3,6 +3,7 @@
 소개
 ---
 Wii U용 스플래툰 1(Splatoon 1)을 한글로 즐길 수 있게 해주는 Aroma 환경 전용 패치입니다. 
+
 SDCafiine 방식을 사용하여 원본 게임 데이터를 손상시키지 않고 안전하게 적용할 수 있습니다.(pretendo 작동 확인)
 
 사용 방법
@@ -23,7 +24,7 @@ SDCafiine 플러그인 (Aroma 전용)
 
 SD 카드를 컴퓨터에 연결하고, 아래 경로에 맞춰 패치 파일들을 복사해 주세요.
 
-```
+```path
 SD:/wiiu/sdcafiine/[Title ID]/splatoon_korean_patch
 ```
 (sdcafiine 폴더가 없으면 생성)
